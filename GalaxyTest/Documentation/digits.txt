@@ -1,0 +1,183 @@
+16 x 10 leds
+
+      0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
+     ---------------------------------
+   0|     o     o         o     o                 
+   1|   o o   o   o     o   o   o    
+   2|     o       o         o   o   o                               
+   3|     o       o         o   o   o                               
+   4|     o     o     x   o     o   o                               
+   5|     o     o           o   o o o                               
+   6|     o   o       x     o       o                               
+   7|     o   o             o       o                               
+   8|     o   o         o   o       o                               
+   9|     o   o o o       o         o                               
+
+      0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
+     ---------------------------------
+   0| o o o     o o     o o o     o               
+   1| o       o             o   o   o
+   2| o       o             o   o   o                               
+   3| o       o           o     o   o                               
+   4| o o     o o     x   o       o                                 
+   5|     o   o   o     o       o   o                               
+   6|     o   o   o   x o       o   o                               
+   7|     o   o   o     o       o   o                               
+   8| o   o   o   o     o       o   o                               
+   9|   o       o       o         o                                 
+
+      0 1 2 3 4 5 6 7 
+     -----------------
+   0|   o       o     
+   1| o   o   o   o   
+   2| o   o   o   o                                 
+   3| o   o   o   o                                 
+   4| o   o   o   o                                 
+   5|   o o   o   o                                 
+   6|     o   o   o                                 
+   7|     o   o   o                                 
+   8| o   o   o   o                                 
+   9|   o       o                                   
+   
+      0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
+     ---------------------------------
+..                      
+   5| o o o   o o o     o   o o   o                                 
+   6|     o       o     o     o   o o                               
+   7| o o o   o o o     o   o o   o o                               
+   8| o       o         o   o o   o o                               
+   9| o o o   o o o   o     o o   o o                               
+   
+      0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
+     ---------------------------------
+..                      
+   5| o o o   o o o     o   o o   o                                 
+   6|     o       o   o     o o   o                                 
+   7| o o o   o o o   o o   o o   o o                               
+   8| o       o       o     o     o o                               
+   9| o o o   o o o   o     o o   o o 
+   
+      0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
+     ---------------------------------
+..                      
+   5| o o o   o o o   o o   o o   o o                               
+   6|     o       o   o o     o     o                               
+   7| o o o   o o o   o o   o o   o o                               
+   8| o       o       o o   o o   o o                               
+   9| o o o   o o o   o o   o o   o o 
+   
+      0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
+     ---------------------------------
+..                      
+   5| o o o   o o o   o o   o o   o o                               
+   6|     o       o     o   o o   o                                 
+   7| o o o   o o o   o o   o o   o                                 
+   8| o       o       o o   o     o                                 
+   9| o o o   o o o   o o   o     o   
+   
+      0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
+     ---------------------------------
+..                      
+   5| o o o   o o o     o o   o o   o                               
+   6|     o       o   o o o   o o   o                               
+   7| o o o   o o o   o o o   o o   o                               
+   8| o       o       o o o   o     o                               
+   9| o o o   o o o   o o o   o o   o 
+   
+      0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
+     ---------------------------------
+..                      
+   5| o o o   o o o     o   o o   o                                 
+   6|     o       o     o   o o   o o                               
+   7| o o o   o o o     o   o o   o o                               
+   8| o       o         o   o o   o o                               
+   9| o o o   o o o   o       o   o o 
+   
+      0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
+     ---------------------------------
+..                      
+   5| o o o   o o o     o   o   o   o                               
+   6|     o       o     o   o   o   o                               
+   7| o o o   o o o     o   o   o   o                               
+   8| o       o         o   o   o   o                               
+   9| o o o   o o o   o       o o   o 
+   
+       0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
+     ---------------------------------
+..                      
+   5| o o o   o o o   o o o o o o o o                               
+   6|     o       o   o o o o o o o o                               
+   7| o o o   o o o   o o o o o o o o                               
+   8| o       o       o o o o o o o o                               
+   9| o o o   o o o   o o o o o o o o                               
+   
+       0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
+     ---------------------------------
+..                      
+   5| o o o   o o o   o o o o o o o o                               
+   6|     o       o   o o o o o o o o                               
+   7| o o o   o o o   o o o o o o o o                               
+   8| o       o       o o o o o o o o                               
+   9| o o o   o o o   o o o o o o o o                               
+   
+       0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
+     ---------------------------------
+..                      
+   5| o o o   o o o   o o o o o o o o                               
+   6|     o       o   o o o o o o o o                               
+   7| o o o   o o o   o o o o o o o o                               
+   8| o       o       o o o o o o o o                               
+   9| o o o   o o o   o o o o o o o o                               
+   
+       0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
+     ---------------------------------
+..                      
+   5| o o o   o o o   o o o o o o o o                               
+   6|     o       o   o o o o o o o o                               
+   7| o o o   o o o   o o o o o o o o                               
+   8| o       o       o o o o o o o o                               
+   9| o o o   o o o   o o o o o o o o                               
+   
+       0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
+     ---------------------------------
+..                      
+   5| o o o   o o o   o o o o o o o o                               
+   6|     o       o   o o o o o o o o                               
+   7| o o o   o o o   o o o o o o o o                               
+   8| o       o       o o o o o o o o                               
+   9| o o o   o o o   o o o o o o o o                               
+   
+       0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
+     ---------------------------------
+..                      
+   5| o o o   o o o   o o o o o o o o                               
+   6|     o       o   o o o o o o o o                               
+   7| o o o   o o o   o o o o o o o o                               
+   8| o       o       o o o o o o o o                               
+   9| o o o   o o o   o o o o o o o o                               
+   
+   
+   1|  o     o o       o     o o     o o o   o o o     o o   o   o   o o o   o o o   o   o   o       
+   2|o   o   o   o   o   o   o   o   o       o       o       o   o     o       o     o   o   o       
+   3|o o o   o o     o       o   o   o o     o o     o o o   o o o     o       o     o o     o       
+   4|o   o   o   o   o   o   o   o   o       o       o   o   o   o     o       o     o   o   o       
+   5|o   o   o o       o     o o     o o o   o         o     o   o   o o o   o o     o   o   o o o   
+ 
+   1|o   o   o o o     o     o o       o     o o       o o   o o o   o   o   o   o   o   o   o   o  
+   2|o o o   o   o   o   o   o   o   o   o   o   o   o         o     o   o   o   o   o   o   o o o  
+   3|o   o   o   o   o   o   o o     o   o   o o       o       o     o   o   o   o   o   o   o o o  
+   4|o   o   o   o   o   o   o       o o o   o   o       o     o     o   o     o     o   o   o o o  
+   5|o   o   o   o     o     o         o o   o   o   o o       o       o       o       o       o   
+ 
+   1|o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+   2|o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+   3|o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+   4|o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+   5|o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
+   1|o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+   2|o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+   3|o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+   4|o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+   5|o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ 
